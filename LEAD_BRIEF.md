@@ -35,5 +35,5 @@ Precision Cutz has strong local demand signals: 4.2 stars, 346 Google reviews, d
 
 ## Deployment
 
-- GitHub repository: Pending
+- GitHub repository: https://github.com/axel-slid/site-precision-cutz
 - Vercel deployment: Pending. Vercel CLI was not installed on PATH during the automated run, so deployment needs the manual steps in `DEPLOYMENT_INSTRUCTIONS.md`.

@@ -1,6 +1,6 @@
 # Deployment Instructions
 
-GitHub authentication is available in this workspace, so the repository can be pushed automatically.
+GitHub repository created: https://github.com/axel-slid/site-precision-cutz
 
 Vercel CLI is not installed on PATH, and this automated run should not use `npx vercel` because it can install or prompt interactively.
 
